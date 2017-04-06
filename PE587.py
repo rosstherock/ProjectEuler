@@ -1,4 +1,4 @@
-# This is a complete solution to Project Euler problem 587 (https://projecteuler.net/problem=588).
+# This is a complete solution to Project Euler problem 587 (https://projecteuler.net/problem=587).
 
 from math import sin
 from math import cos
