@@ -1,5 +1,5 @@
 """
-This is a complete solution to Project Euler problem 589 (https://projecteuler.net/problem=588).
+This is a complete solution to Project Euler problem 589 (https://projecteuler.net/problem=589).
 numpy.linalg.solve() is used to solve a system of linear equations.
 """
 
