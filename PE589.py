@@ -32,7 +32,6 @@ def E(m,n):
 print("E(60,30) = "+str(E(60,30)))
 
 def S(k):
-    start = time()
     ret = 0
     for m in range(2,k+1):
         for n in range(1,m):
